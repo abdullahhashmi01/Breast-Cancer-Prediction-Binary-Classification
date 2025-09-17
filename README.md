@@ -8,3 +8,4 @@
 ### Results and Achievements
 * Achieved an accuracy of **97%** on the test dataset.
 * Demonstrated strong performance with a precision of 0.97 and recall of 0.99 for the benign class, and 0.98 precision and 0.95 recall for the malignant class.
+<img width="1059" height="832" alt="image" src="https://github.com/user-attachments/assets/0944ec67-83cf-4373-ac1f-3df16df37783" />
