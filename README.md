@@ -8,4 +8,10 @@
 ### Results and Achievements
 * Achieved an accuracy of **97%** on the test dataset.
 * Demonstrated strong performance with a precision of 0.97 and recall of 0.99 for the benign class, and 0.98 precision and 0.95 recall for the malignant class.
-<img width="1059" height="832" alt="image" src="https://github.com/user-attachments/assets/0944ec67-83cf-4373-ac1f-3df16df37783" />
+
+
+  ### Correlation Matrix
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0944ec67-83cf-4373-ac1f-3df16df37783" />
+
+### Confusion Matrix
+<img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/66921049-c8c7-4b00-9b55-5a14475d9dd9" />
