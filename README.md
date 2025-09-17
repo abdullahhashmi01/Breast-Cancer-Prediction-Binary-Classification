@@ -1,4 +1,4 @@
-* Developed a binary classification model to predict whether a breast mass is malignant or benign using the Breast Cancer Wisconsin (Diagnostic) Dataset.
+### Developed a binary classification model to predict whether a breast mass is malignant or benign using the Breast Cancer Wisconsin (Diagnostic) Dataset.
 
 ### Technical Skills and Methodologies
 * **Data Preprocessing and Analysis:** Conducted exploratory data analysis, checked for missing values, and handled data duplicates to ensure data quality.
@@ -15,3 +15,14 @@
 
 ### Confusion Matrix
 <img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/66921049-c8c7-4b00-9b55-5a14475d9dd9" />
+
+###Classification Report
+              precision    recall  f1-score   support
+
+           0       0.98      0.95      0.96        43
+           1       0.97      0.99      0.98        71
+
+    accuracy                           0.97       114
+   macro avg       0.97      0.97      0.97       114
+weighted avg       0.97      0.97      0.97       114
+
